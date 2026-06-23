@@ -1,2 +1,7 @@
 Hello this is my file1
+<<<<<<< HEAD
 master modified
+=======
+dev modified
+>>>>>>> dev
+keep both all good
