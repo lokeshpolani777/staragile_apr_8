@@ -3,5 +3,11 @@ Hello this is my file1
 master modified
 =======
 dev modified
+<<<<<<< HEAD
 >>>>>>> dev
 keep both all good
+=======
+modified by dev
+edited
+>>>>>>> dev
+all good
